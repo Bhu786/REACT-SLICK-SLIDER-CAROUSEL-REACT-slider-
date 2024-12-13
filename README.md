@@ -1,4 +1,4 @@
-# REACT-SLICK-SLIDER-CAROUSEL-REACT-slider-
+![image](https://github.com/user-attachments/assets/ede0d8e3-8306-405e-97ea-57b0f6b38dad)# REACT-SLICK-SLIDER-CAROUSEL-REACT-slider-
 
 What is React Slick?
 React Slick is a carousel (or slider) library for React that is built on top of the popular Slick Carousel. It allows you to create smooth and customizable carousels in your React applications with minimal effort
@@ -261,6 +261,11 @@ export default Carousel;
 #### upar wale ko code ko modified kar kar kaise bhi design bna sakte hai
 ###### jaise upar wala ak big images banner hai thik isme me hi little changes kar ki 
  ###### circle of multiple images bna deye niche code hai 
+
+![Alt text](./image.png)
+
+
+ 
 ```react.js
 import React from "react";
 import Slider from "react-slick";
