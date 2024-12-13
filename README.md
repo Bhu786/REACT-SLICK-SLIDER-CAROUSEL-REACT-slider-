@@ -164,6 +164,12 @@ const settings = {
 
 
 ## Example hai best for banner 
+
+![Alt text](./banner.png)
+
+
+
+
 ```react.js
 import React from "react";
 import Slider from "react-slick";
